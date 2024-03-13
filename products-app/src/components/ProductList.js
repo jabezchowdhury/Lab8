@@ -1,3 +1,14 @@
+/*
+==================================================================
+Name: ProductList.js
+Assignment: Lab 8, Exercise B
+Author(s): Jabez Chowdhury, Yuecheng Sun
+Submission: March 13, 2024
+Description: React
+==================================================================
+*/
+
+
 import React, { useEffect, useState } from 'react';
 import { fetchProducts } from '../services/apiService';
 import { useProductsContext } from '../context/ProductsContext';
