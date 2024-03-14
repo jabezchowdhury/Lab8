@@ -1,3 +1,14 @@
+/*
+==================================================================
+Name: apiService.js
+Assignment: Lab 8, Exercise B
+Author(s): Jabez Chowdhury, Yuecheng Sun
+Submission: March 13, 2024
+Description: React
+==================================================================
+*/
+
+
 import axios from 'axios';
 
 const BASE_URL = 'https://dummyjson.com/products';
