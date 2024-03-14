@@ -1,3 +1,12 @@
+/*
+==================================================================
+Name: ComfirmModel.js
+Assignment: Lab 8, Exercise B
+Author(s): Jabez Chowdhury, Yuecheng Sun
+Submission: March 13, 2024
+Description: React
+==================================================================
+*/
 import React from 'react';
 
 const ConfirmModal = ({ show, onClose, onConfirm, title, children }) => {

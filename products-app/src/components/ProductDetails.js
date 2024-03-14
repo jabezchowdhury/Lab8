@@ -1,3 +1,12 @@
+/*
+==================================================================
+Name: ProductDetails.js
+Assignment: Lab 8, Exercise B
+Author(s): Jabez Chowdhury, Yuecheng Sun
+Submission: March 13, 2024
+Description: React
+==================================================================
+*/
 import React, { useState, useEffect } from 'react';
 import DeleteButton from './DeleteButton';
 import { getProductDetails } from '../services/apiService';

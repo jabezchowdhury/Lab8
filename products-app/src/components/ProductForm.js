@@ -1,3 +1,12 @@
+/*
+==================================================================
+Name: ProductForm.js
+Assignment: Lab 8, Exercise B
+Author(s): Jabez Chowdhury, Yuecheng Sun
+Submission: March 13, 2024
+Description: React
+==================================================================
+*/
 import React, { useState, useEffect } from 'react';
 import { addProduct, editProduct, getProductDetails } from '../services/apiService';
 import { useProductsContext } from '../context/ProductsContext';
